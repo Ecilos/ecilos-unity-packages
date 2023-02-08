@@ -16,6 +16,13 @@
       },
       "hash": "4d5163c0133f161f187cc341484479d3069f19f0"
     },
+    "com.matthewminer.sceneviewbookmarks": {
+      "version": "https://github.com/mminer/scene-view-bookmarks.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5af07b333ddb3201a910e9539ecbb3d6aecf58c0"
+    },
     "com.siccity.gltfutility": {
       "version": "https://github.com/Siccity/GLTFUtility.git",
       "depth": 0,
