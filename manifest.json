@@ -3,6 +3,7 @@
     "com.heroiclabs.nakama-unity": "https://github.com/heroiclabs/nakama-unity.git?path=/Packages/Nakama#v3.6.0",
     "com.matthewminer.sceneviewbookmarks": "https://github.com/mminer/scene-view-bookmarks.git",
     "com.siccity.gltfutility": "https://github.com/Siccity/GLTFUtility.git",
+    "com.solana.unity_sdk": "https://github.com/garbles-labs/Solana.Unity-SDK.git",
     "com.spoiledcat.git": "1.0.12",
     "com.unity.cinemachine": "2.8.9",
     "com.unity.collab-proxy": "1.17.7",

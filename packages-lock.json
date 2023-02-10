@@ -32,6 +32,16 @@
       },
       "hash": "96619fcd48ffe5c4ad122837a21601a6f7c20080"
     },
+    "com.solana.unity_sdk": {
+      "version": "https://github.com/garbles-labs/Solana.Unity-SDK.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.textmeshpro": "3.0.6"
+      },
+      "hash": "43ab3b15ff59664a66567f3d969b1c034ee37133"
+    },
     "com.spoiledcat.git": {
       "version": "1.0.12",
       "depth": 0,
